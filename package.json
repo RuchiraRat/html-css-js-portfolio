@@ -1,0 +1,50 @@
+{
+  
+  "name": "html-css-js-portfolio",
+  
+  "version": "1.0.0",
+  
+  "description": "a personal portfolio website using HTML, CSS and JavaScript",
+  
+  "main": "script.js",
+  
+  "scripts": {
+  
+    
+  "test": "npm test",
+  
+    
+  "start": "npx live-server"
+
+  },
+  
+  "repository": {
+  
+    
+  "type": "git",
+  
+    
+  "url": "git+https://github.com/RuchiraRat/html-css-js-portfolio.git"
+  
+  },
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "bugs": {
+  
+    
+  "url": "https://github.com/RuchiraRat/html-css-js-portfolio/issues"
+  
+  },
+  
+  "homepage": "https://github.com/RuchiraRat/html-css-js-portfolio#readme",
+  
+  "devDependencies": {
+  
+    
+  "live-server": "^1.2.2"
+  
+  }
+}
